@@ -2,7 +2,9 @@
 [www.elastera.com](http://www.elastera.com) Email: [info@elastera.com](info@elastera.com) Twitter: [@elastera](https://twitter.com/elastera)  
 
 # Description
-This magento module will allow you to other file names for the sitemap than just `sitemap.xml`  
+This magento module will allow you to use other file names for the sitemap than just `sitemap.xml`  
+Magento does allow you to use choose any file name for the sitemap.  
+But the generation of the sitemap file will fail, if it is something else than "sitemap.xml".  
 The filter that was added is `/*/*sitemap*.xml`.  
 With this filter you can create a separate sitemap for every store.  
 All sitemap files can no coexist in one folder.  
