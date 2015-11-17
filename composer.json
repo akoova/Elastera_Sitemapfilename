@@ -1,0 +1,18 @@
+{
+  "name"        : "Elastera/Sitemapfilename",
+  "license"     : "GPL-3.0",
+  "type"        : "magento-module",
+  "description" : "Magento Sitemap Filename Extension",
+  "homepage"    : "https://elastera.com",
+  "require"     : {
+    "php"                                          : ">=5.4",
+    "magento-hackathon/magento-composer-installer" : "*"
+  },
+  "authors"     : [
+    {
+      "name"  : "Mark Simon",
+      "email" : "mark@elastera.com",
+      "role"  : "Author/Maintainer"
+    }
+  ]
+}

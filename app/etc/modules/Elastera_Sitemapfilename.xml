@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Elastera_Sitemapfilename>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Elastera_Sitemapfilename>
+    </modules>
+</config>
